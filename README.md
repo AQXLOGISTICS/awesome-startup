@@ -96,6 +96,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [AngelList](https://angel.co/)
 - [BetaPage](https://betapage.co/)
 - [StartupJohn](https://www.startupjohn.com/)
+- [One Person Company](https://onepersoncompany.com/) - Guides, tools, and playbooks for building a profitable solo business with AI
 
 # Accelerators
 - [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
@@ -119,6 +120,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 - [27 books every startup ought to read by Hiten Shah](https://hitenism.com/startup-books/)
+- [How to Start a One Person Company (2026)](https://onepersoncompany.com/how-to-start-a-one-person-company)
 
 # Engineering
 
