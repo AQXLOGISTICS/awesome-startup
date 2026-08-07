@@ -103,10 +103,20 @@ The timeless advice on this list still holds: talk to users, ship fast, watch yo
 - [Paul Graham on Building Companies for Fast Growth](https://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html) - Profile with useful detail on YC's early thinking.
 - [27 Books Every Startup Ought to Read by Hiten Shah](https://hitenism.com/startup-books/) - An opinionated reading path.
 - [Stay Small, Be Agile, Grow Fast](https://longform.asmartbear.com/) - Jason Cohen's long-form essays on bootstrapping, pricing and positioning.
+- [How to Start a One Person Company](https://onepersoncompany.com/how-to-start-a-one-person-company) - A walkthrough of the solo, AI-assisted operating model.
 
 ## AI for Founders
 
 The most consequential change to startup building since this list began. A small team can now ship what used to take a floor of engineers, but the same leverage is available to your competitors, so the durable advantages are distribution, proprietary data and taste.
+
+### Working with AI Day to Day
+
+Before you build anything, these are the tools that change how a founder researches, writes and supports customers.
+
+- [ChatGPT](https://chatgpt.com/) - General-purpose assistant for research, writing, support drafts and operations.
+- [Claude](https://claude.ai/) - Long-context assistant suited to product specs, coding help and founder workflows.
+- [Perplexity](https://www.perplexity.ai/) - AI search with citations, useful for market research and competitive intel.
+- [NotebookLM](https://notebooklm.google.com/) - Ground a model in your own documents to interrogate contracts, research and transcripts.
 
 ### Models and Access
 
@@ -267,6 +277,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Raising Capital: The Advice We Give Our Founders](https://a16z.com/raising-capital-this-is-the-advice-we-give-our-founders/) - a16z on valuation and dilution tradeoffs.
 - [YC's Guide to Seed Fundraising](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising) - Process, instruments and how much to raise.
 - [Sequoia's Writing a Business Plan](https://sequoiacap.com/article/writing-a-business-plan/) - The deck outline a great many decks are copied from.
+- [AngelList](https://www.angellist.com/) - Fundraising, syndicates, roll-ups and startup equity tooling. Distinct from Wellfound, which took over the jobs and talent side.
 - [OpenVC](https://www.openvc.app/) - Searchable, filterable database of investors and their theses.
 - [Signal by NFX](https://signal.nfx.com/) - Investor search with warm-intro paths.
 
@@ -378,6 +389,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Hacker News](https://news.ycombinator.com/) - Where a technical audience finds and criticizes new products.
 - [Sacra](https://sacra.com/) - Research on private company revenue and growth.
 - [PitchWall](https://pitchwall.co/) - Discover and launch early-stage products, successor to BetaPage.
+- [One Person Company](https://onepersoncompany.com/) - Guides, tools and playbooks for building a profitable solo business with AI.
 - [Exploding Topics](https://explodingtopics.com/) - Spot demand trends before they are obvious.
 - [Google Trends](https://trends.google.com/trends/) - Free validation of search demand and seasonality.
 - [Statista](https://www.statista.com/) - Market size data for decks, with sources you should check.
