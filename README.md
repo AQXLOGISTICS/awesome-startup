@@ -7,22 +7,23 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Videos](#videos-and-courses)
 - [General](#general)
 - [Resources](#resources)
-- [Accelerators](#accelerators)
-- [Finance](#finance)
-- [Reading](#reading)
-- [Engineering](#engineering)
-- [Venture Capital and Raising Money](#venture-capital-and-raising-money)
-- [Marketing, Sales & metrics](#marketing-sales--metrics)
-- [Task Management & Collaboration](#task-management--collaboration)
-- [Marketing Tools](#marketing-tools)
-- [Coworking & Virtual Offices](#coworking--virtual-offices)
-- [Leadership & People](#leadership--people)
+    - [Accelerators](#accelerators)
+    - [Finance](#finance)
+    - [AI for Startups](#ai-for-startups)
+    - [Reading](#reading)
+    - [Engineering](#engineering)
+    - [Venture Capital and Raising Money](#venture-capital-and-raising-money)
+    - [Marketing, Sales & metrics](#marketing-sales--metrics)
+    - [Task Management & Collaboration](#task-management--collaboration)
+    - [Marketing Tools](#marketing-tools)
+    - [Coworking & Virtual Offices](#coworking--virtual-offices)
+    - [Leadership & People](#leadership--people)
 
 
 # Books
 * [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
 * [For Entrepreneurs](http://powerbooks.strikingly.com/)
-* [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future 
+* [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) - Notes on Startups, or How to Build the Future
 * [Startup Notes](http://startupnotes.org/#page/1)
 * [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
 - [The Lean Startup by Eric Ries](http://www.amazon.com/Lean-Startup-Innovation-Successful-ebook/dp/B004J4XGN6/)
@@ -34,7 +35,6 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Venture Deals by Brad Feld and Jason Mendelson](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
 - [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs.
 - [Traction: A Startup Guide to Getting Customers](https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/0241242533)
-- [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future
 - [Hello, Startup](https://www.hello-startup.net/) - The "Hello, World" tutorial for building a startup
 * [The Balanced Scorecard: Translating Strategy into Action](https://www.amazon.com/Balanced-Scorecard-Translating-Strategy-Action/dp/0875846513) - The Balanced Scorecard translates a company's vision and strategy into a coherent set of performance measures. The four perspectives of the scorecard--financial measures, customer knowledge, internal business processes, and learning and growth--offer a balance between short-term and long-term objectives, between outcomes desired and performance drivers of those outcomes, and between hard objective measures and softer, more subjective measures. This is a great tool for all companies, but importantly early stage companies, to help them translate data to data execution into actionable and measurable outcomes, across the business.
 * [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) - Using tough benchmarks, Collins and his research team identified a set of elite companies that made the leap to great results and sustained those results for at least fifteen years. How great? After the leap, the good-to-great companies generated cumulative stock returns that beat the general stock market by an average of seven times in fifteen years, better than twice the results delivered by a composite index of the world's greatest companies, including Coca-Cola, Intel, General Electric, and Merck.  
@@ -93,20 +93,32 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Product Hunt](http://www.producthunt.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Crunchbase](http://www.crunchbase.com/)
-- [AngelList](https://angel.co/)
+- [Wellfound](https://wellfound.com/) - Startup jobs and talent (formerly AngelList Talent)
+- [AngelList](https://www.angellist.com/) - Fundraising, roll-ups, and startup equity tooling
 - [BetaPage](https://betapage.co/)
 - [StartupJohn](https://www.startupjohn.com/)
 
 # Accelerators
 - [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
 - [YCombinator](https://www.ycombinator.com/about/) - Seed funding for startups (from the creators of HackerNews)
-- [500 Startups](https://500.co/) - One of the top accelerators with a global presence
+- [500 Global](https://500.co/) - Global accelerator and early-stage VC (formerly 500 Startups)
 - [Techstars](https://www.techstars.com/) - One of the world's leading accelerators offering a range of programs
 
 # Finance
 - [Brex](https://www.brex.com/about/) - Banking for newly-founded tech startups made easy
 - [Revolut Business](https://www.revolut.com/business/business-account) - Control your payments, company cards, expenses and more from one app
 - [Ramp](https://ramp.com/) - Cards, bills, payments, approvals, and more for startups
+- [Mercury](https://mercury.com/) - Startup banking with cards, wires, and treasury tools
+- [Stripe Atlas](https://stripe.com/atlas) - Incorporate a US company and get payment tooling in days
+
+# AI for Startups
+- [ChatGPT](https://chatgpt.com/) - General-purpose AI for research, writing, support drafts, and ops
+- [Claude](https://claude.ai/) - Long-context AI for product specs, coding help, and founder workflows
+- [Cursor](https://cursor.com/) - AI-native code editor for shipping faster with a small engineering team
+- [v0](https://v0.dev/) - Generate UI from prompts to prototype products quickly
+- [Perplexity](https://www.perplexity.ai/) - AI search for market research and competitive intel
+- [OpenAI API](https://platform.openai.com/) - Build AI features into your product
+- [Anthropic API](https://docs.anthropic.com/) - Claude API for product and agent workflows
 
 # Reading
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
