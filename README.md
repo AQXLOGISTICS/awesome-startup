@@ -11,6 +11,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Finance](#finance)
 - [Reading](#reading)
 - [Engineering](#engineering)
+- [AI Tools for Founders](#ai-tools-for-founders)
 - [Venture Capital and Raising Money](#venture-capital-and-raising-money)
 - [Marketing, Sales & metrics](#marketing-sales--metrics)
 - [Task Management & Collaboration](#task-management--collaboration)
@@ -47,6 +48,10 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 * [Change the Culture, Change the Game: The Breakthrough Strategy for Energizing Your Organization and Creating Accountability for Results](https://www.amazon.com/Change-Culture-Game-Breakthrough-Organization/dp/1591845394) - shows how leaders can achieve record-breaking results by quickly and effectively shaping their organizational culture to capitalize on their greatest asset-their people.
 * [Think Like a Founder](https://www.manning.com/books/think-like-a-founder) - Discover the good, the bad, and the ugly of succeeding with a tech startup from nine-time company founder Jothy Rosenberg.
 * [Think Like a CTO](https://www.manning.com/books/think-like-a-cto) - A book that shares the experience and advice of veteran CTOs and industry experts for handling IT crises, leading tech teams, and creating an inspiring vision for your company.
+* [The Cold Start Problem by Andrew Chen](https://www.coldstart.com/) - How to solve the "chicken-and-egg" problem behind every network-effect product, from an operator/investor at a16z.
+* [Obviously Awesome by April Dunford](https://www.aprildunford.com/obviously-awesome) - A practical framework for positioning your product so customers instantly understand why it matters.
+* [Founder Mode by Paul Graham](https://paulgraham.com/foundermode.html) - A widely-discussed essay arguing that founder-led companies should reject generic "manager mode" scaling advice as they grow.
+* [The Mom Test by Rob Fitzpatrick](http://momtestbook.com/) - How to talk to customers and learn if your business idea is good, before you've spent months (and your savings) building it.
 
 # Videos and Courses
 
@@ -100,13 +105,17 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 # Accelerators
 - [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
 - [YCombinator](https://www.ycombinator.com/about/) - Seed funding for startups (from the creators of HackerNews)
-- [500 Startups](https://500.co/) - One of the top accelerators with a global presence
+- [500 Global](https://500.co/) - One of the top accelerators with a global presence (formerly 500 Startups)
 - [Techstars](https://www.techstars.com/) - One of the world's leading accelerators offering a range of programs
+- [Antler](https://www.antler.co/) - Global early-stage VC and accelerator that also helps solo founders find co-founders
 
 # Finance
 - [Brex](https://www.brex.com/about/) - Banking for newly-founded tech startups made easy
 - [Revolut Business](https://www.revolut.com/business/business-account) - Control your payments, company cards, expenses and more from one app
 - [Ramp](https://ramp.com/) - Cards, bills, payments, approvals, and more for startups
+- [Mercury](https://mercury.com/) - Banking built for startups, with easy incorporation-to-account setup
+- [Stripe Atlas](https://stripe.com/atlas) - Incorporate a company, open a bank account, and start charging customers from anywhere
+- [Carta](https://carta.com/) - Cap table management, equity, and valuations for startups and investors
 
 # Reading
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
@@ -127,6 +136,21 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [The one cost engineers and product managers don't consider](https://web.archive.org/web/20200728004935if_/https://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
 - Software Engineering and Development is expensive and delicate. Use [Spurwing](https://www.spurwing.io/) instead of reinventing the wheel when it comes to time management solutions. Spurwing is like Stripe but for appointment scheduling. This API makes it easy to add robust appointment booking and calendaring features to any application. The Spurwing API is a secure and feature-rich, accessible product for building custom solutions, product integrations, scheduling and calendaring widgets. You are only limited by your own imagination.
 Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
+
+
+# AI Tools for Founders
+
+The last few years have made it possible for very small teams to build, ship and support real products without a large engineering org. A few tools worth knowing about:
+
+- [Cursor](https://cursor.com/) - AI code editor and cloud coding agents that let a small (or solo) team ship product faster, including background agents that can work on tasks independently.
+- [ChatGPT](https://chatgpt.com/) / [Claude](https://claude.ai/) / [Gemini](https://gemini.google.com/) - General-purpose AI assistants useful for everything from drafting investor updates to debugging code.
+- [Perplexity](https://www.perplexity.ai/) - AI-powered research and search, handy for fast market/competitor research.
+- [v0](https://v0.app/) / [Lovable](https://lovable.dev/) / [bolt.new](https://bolt.new/) - "Vibe coding" tools that turn a prompt into a working UI or full-stack app, great for prototypes and landing pages.
+- [Vercel](https://vercel.com/) - Deploy and host modern web apps with zero-config CI/CD.
+- [Supabase](https://supabase.com/) - Open-source Postgres backend-as-a-service (auth, database, storage) for shipping MVPs quickly.
+- [Clerk](https://clerk.com/) - Drop-in user authentication and management.
+- [PostHog](https://posthog.com/) - Open-source product analytics, feature flags, and session replay in one platform.
+- [Retool](https://retool.com/) - Build internal tools and admin dashboards quickly without a dedicated eng team.
 
 
 # Venture Capital and Raising Money
