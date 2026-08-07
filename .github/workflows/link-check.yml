@@ -1,0 +1,44 @@
+name: Link Check
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  schedule:
+    # Curated lists rot silently. Re-check every Monday at 06:00 UTC.
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --cache
+            --max-cache-age 1d
+            --max-retries 3
+            --timeout 20
+            --accept 200..=299,403,429
+            --exclude-path .github
+            --user-agent "Mozilla/5.0 (compatible; awesome-startup link check)"
+            "**/*.md"
+          fail: false
+
+      - name: Open an issue when links are broken
+        if: env.lychee_exit_code != '0' && github.event_name == 'schedule'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Broken links found in awesome-startup
+          content-filepath: ./lychee/out.md
+          labels: broken-link, help wanted
