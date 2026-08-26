@@ -252,6 +252,7 @@ Getting the paperwork right at the start is far cheaper than fixing it during di
 - [Puzzle](https://puzzle.io/) - Accounting that stays close to real time, so your burn number is current.
 - [Guide to SaaS Metrics by David Skok](https://www.forentrepreneurs.com/saas-metrics/) - The definitive treatment of CAC, LTV and the cash flow trough.
 - [The SaaS Metrics That Matter](https://www.bvp.com/atlas/scaling-to-100-million) - Bessemer's benchmarks for growth, efficiency and retention.
+- [How Much To Start A Business](https://howmuchtostartabusiness.com/) - Estimate startup costs for 100+ business types, including legal, equipment, staffing and more
 
 ## Security and Compliance
 
